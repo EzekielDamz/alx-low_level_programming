@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-  * main - Print all the numbers of base 16 in lowercase
+  * main - Print all possible combinations of single digit numbers
   *
-  * Return: Always 0
+  * Return: 0 on success
   */
 int main(void)
 {
@@ -14,9 +14,9 @@ int main(void)
 		if (i != '9')
 		{
 			putchar(',');
-			putchar(',');
+			putchar(' ');
 		}
-		++i;
+		+ii;
 	}
 	putchar('\n');
 	return (0);
