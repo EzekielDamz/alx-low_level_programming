@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
   * main - Entry point
   *
@@ -10,7 +11,7 @@ int lowerCase = 'a';
 while (lowerCase <= 'z')
 {
 if (lowerCase == 'e' || lowerCase == 'q')
-}
+{
 lowerCase += 1;
 }
 else
