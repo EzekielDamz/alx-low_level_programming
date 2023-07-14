@@ -7,7 +7,7 @@
 int main(void)
 {
 int lowerCase = 'a';
-while (lowerCase <=- 'z')
+while (lowerCase <= 'z')
 {
 if (lowerCase == 'e' || lowerCase == 'q')
 }
