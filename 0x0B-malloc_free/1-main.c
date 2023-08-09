@@ -7,8 +7,7 @@
  *
  * Return: Always 0.
  */
-
-char *_strdup(char *str)
+int main(void)
 {
 char *s;
 
