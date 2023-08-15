@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
-  * main: print out file names
+  * Description: print out file names
   *
+  * main- void
   * Return: int
   */
 int main(void)
