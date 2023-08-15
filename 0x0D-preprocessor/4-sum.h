@@ -3,7 +3,7 @@
 /**
   * file: 4-sum.h
   *
-  * @x: first input 
+  * @x: first input
   * @y: second input
   */
 #define SUM(x, y) (x + y)
